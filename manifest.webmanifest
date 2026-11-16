@@ -1,0 +1,10 @@
+{
+  "name": "Mi Contador",
+  "short_name": "Contador",
+  "description": "Contadores personales con historial y guardado local.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#171411",
+  "theme_color": "#211c18",
+  "lang": "es"
+}
